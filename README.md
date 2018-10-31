@@ -1,2 +1,2 @@
 # Udacity-AIND
-record core concepts and code
+This rep is used to record core concepts and code
